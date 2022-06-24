@@ -20,7 +20,7 @@ function App() {
     <BrowserRouter>
       <div className={classes.App}>
         <Header />
-        <Route path="/" component={Homepage} exact />
+        <Route path="/blvckOcn/" component={Homepage} exact />
         <Route path="/coins/:id" component={CoinPage} exact />
       </div>
     </BrowserRouter>

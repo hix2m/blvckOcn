@@ -1,4 +1,4 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+<!-- # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 ## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
 
@@ -17,4 +17,4 @@
 
 [![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+MIT © [Piyush Agarwal ](https://github.com/piyush-eon) -->
